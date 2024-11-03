@@ -1,14 +1,15 @@
 # Voices4Justice
 A collection of writers, journalists, activists, and others fighting for a free Palestine.
 
-- [Democracy Now]()
-- [Electronic Intifada]()
-- [The listening Post]()
-- [Miko Peled]()
-- [Al Jezeera]()
-- [Middle Nation - Shahid Bolsen]()
-- [Norman Finkelstein]()
-- [Dr Mads Gilbert]()
+- [Al Jezeera](https://www.aljazeera.com/)
+- [Democracy Now](https://www.democracynow.org/)
+- [Electronic Intifada](https://electronicintifada.net/)
+- [The listening Post](https://www.aljazeera.com/program/the-listening-post/)
+- [Mads Gilbert](https://www.instagram.com/drmadsgilbert/?hl=en)
+- [Middle Nation](https://www.youtube.com/@MiddleNation)
+- [Miko Peled](https://mikopeled.com/)
+- [Norman Finkelstein](https://www.normanfinkelstein.com/)
+
 - [Katie Halper]()
 - [Middle East Eye]()
 - [Owen Jones]()
