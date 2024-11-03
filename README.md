@@ -26,3 +26,5 @@ A collection of writers, journalists, activists, and others fighting for a free 
 - Francesca Albanese
 - Diana Buttu
 - Craig Mokhiber
+- Edward Said
+- Ghassan Kanafani
