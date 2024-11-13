@@ -1,13 +1,13 @@
 # Voices4Justice
 A collection of writers, journalists, activists, and others fighting for a free Palestine.
 
-# Journalists / Alt media
+## Journalists / Alt media
 - [Chris Hedges](https://www.youtube.com/channel/UCEATT6H3U5lu20eKPuHVN8A)
 - [Diana Buttu](https://www.instagram.com/dianabuttu/?hl=en)
 - [Katie Halper](https://www.youtube.com/c/TheKatieHalperShow)
 - [Warfare Analysis](https://t.me/warfareanalysis)
 
-# Media
+## Media
 - [Al Jazeera](https://www.aljazeera.com/)
 - [Democracy Now](https://www.democracynow.org/)
 - [Electronic Intifada](https://electronicintifada.net/)
@@ -15,7 +15,7 @@ A collection of writers, journalists, activists, and others fighting for a free 
 - [Middle East Eye](https://www.middleeasteye.net/)
 - [Middle Nation](https://www.youtube.com/@MiddleNation)
 
-# Authors / Historians
+## Authors / Historians
 - [Avi Shlaim](https://www.middleeasteye.net/users/avi-shlaim)
 - [Edward Said](https://palestine.mei.columbia.edu/edward-said-archive)
 - [Gabor Maté](https://drgabormate.com/)
@@ -30,7 +30,7 @@ A collection of writers, journalists, activists, and others fighting for a free 
 - [Daniel Levy](https://ecfr.eu/profile/daniel_levy/)
 - [Andrew Feinstein](https://x.com/andrewfeinstein)
 
-# Artists / Activists / Politicians
+## Artists / Activists / Politicians
 - [Francesca Albanese](https://www.ohchr.org/en/special-procedures/sr-palestine/francesca-albanese)
 - [Lowkey](https://www.youtube.com/@LowkeyOnline)
 - [Mads Gilbert](https://www.instagram.com/drmadsgilbert/?hl=en)
@@ -38,7 +38,7 @@ A collection of writers, journalists, activists, and others fighting for a free 
 - [Mouin Rabbani](https://mecouncil.org/experts_members/mouin-rabbani/)
 - [Jeremy Corbyn](https://jeremycorbyn.org.uk/)
 
-# Other
+## Other
 - [Bassem Youssef](https://www.bassemyoussef.xyz/)
 - [Mehdi Hasan / Zeteo](https://zeteo.com/)
 - [Owen Jones](https://www.youtube.com/@OwenJonesTalks)
