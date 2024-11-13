@@ -1,7 +1,7 @@
 # Voices4Justice
 A collection of writers, journalists, activists, and others fighting for a free Palestine.
 
-- [Al Jezeera](https://www.aljazeera.com/)
+- [Al Jazeera](https://www.aljazeera.com/)
 - [Andrew Feinstein](https://x.com/BarnabyRaine)
 - [Avi Shlaim](https://www.middleeasteye.net/users/avi-shlaim)
 - [Barnaby Raine](https://x.com/BarnabyRaine)
