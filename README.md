@@ -8,6 +8,7 @@ A collection of writers, journalists, activists, and others fighting for a free 
 - [Ahmed Shihab-Eldin](https://x.com/ASE)
 - [Asa Winstanley](https://x.com/AsaWinstanley)
 - [Assal Rad](https://x.com/AssalRad)
+- [Alan MacLeod](https://x.com/AlanRMacLeod)
 - [Bisan Owda](https://x.com/Wizard__Bisan)  (journalist on the ground in Gaza)
 - [Chris Hedges](https://www.youtube.com/channel/UCEATT6H3U5lu20eKPuHVN8A)
 - [Dan Cohen](https://x.com/dancohen3000)
