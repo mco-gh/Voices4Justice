@@ -1,7 +1,7 @@
 # Voices4Justice
 A collection of writers, journalists, activists, and others fighting for a free Palestine.
 
-# Journalists / Alt media
+## Journalists / Alt media
 - [Abubaker Abed](https://x.com/AbubakerAbedW) (journalist on the ground in Gaza)
 - [Ali Abunimah](https://x.com/AliAbunimah)
 - [Anas Al-Sharif أنس الشريف](https://x.com/AnasAlSharif0)  (journalist on the ground in Gaza)
@@ -69,7 +69,7 @@ A collection of writers, journalists, activists, and others fighting for a free 
 - [Refaat Alareer](https://en.wikipedia.org/wiki/Refaat_Alareer)
 - [Ta-Nehisi Coates](https://ta-nehisicoates.com/)
 
-# Artists / Activists / Politicians
+## Artists / Activists / Politicians
 - [Abby Martin](https://x.com/AbbyMartin)
 - [Alon Mizrahi](https://x.com/alon_mizrahi)
 - [Craig Mokhiber](https://x.com/CraigMokhiber)
@@ -93,7 +93,7 @@ A collection of writers, journalists, activists, and others fighting for a free 
 - [Robert Martin](https://x.com/Robert_Martin72)
 - [Steve Sosebee](https://x.com/Stevesosebee)
 
-# Orgs
+## Orgs
 - [Accountability Archive](https://x.com/archivegenocide)
 - [BDS movement](https://www.bdsmovement.net/)
 - [B'Tselem בצלם بتسيلم](https://x.com/btselem)
