@@ -35,7 +35,7 @@ A collection of writers, journalists, activists, and others fighting for a free 
   - [Warfare Analysis](https://t.me/warfareanalysis)
   - [AIPAC Tracker](https://x.com/TrackAIPAC)
 
-# Media
+## Media
 - [Al Jazeera](https://www.aljazeera.com/)
 - [Democracy Now](https://www.democracynow.org/)
 - [Double Down News](https://x.com/DoubleDownNews)
@@ -49,7 +49,7 @@ A collection of writers, journalists, activists, and others fighting for a free 
 - [Quds News Network](https://x.com/QudsNen)
 - [MintPress News](https://x.com/MintPressNews)
 
-# Authors / Historians
+## Authors / Historians
 - [Avi Shlaim](https://www.middleeasteye.net/users/avi-shlaim)
 - [David Miller](https://x.com/Tracking_Power)
 - [Edward Said](https://palestine.mei.columbia.edu/edward-said-archive)
@@ -106,7 +106,7 @@ A collection of writers, journalists, activists, and others fighting for a free 
 - [The Hind Rajab Foundation](https://hindrajabfoundation.org)
 - [Tech For Palestine](https://x.com/tech4palestine)
 
-# Other
+## Other
 - [Bassem Youssef](https://www.bassemyoussef.xyz/)
 - [Mehdi Hasan / Zeteo](https://zeteo.com/)
 - [Owen Jones](https://www.youtube.com/@OwenJonesTalks)
