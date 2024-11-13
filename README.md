@@ -5,7 +5,7 @@ A collection of writers, journalists, activists, and others fighting for a free 
 - [Abubaker Abed](https://x.com/AbubakerAbedW) (journalist on the ground in Gaza)
 - [Ali Abunimah](https://x.com/AliAbunimah)
 - [Anas Al-Sharif أنس الشريف](https://x.com/AnasAlSharif0)  (journalist on the ground in Gaza)
-- [Ahmed Shihab-Eldin](https://www.ahmedshihabeldin.com/)
+- [Ahmed Shihab-Eldin](https://x.com/ASE)
 - [Asa Winstanley](https://x.com/AsaWinstanley)
 - [Assal Rad](https://x.com/AssalRad)
 - [Bisan Owda](https://x.com/Wizard__Bisan)  (journalist on the ground in Gaza)
@@ -45,7 +45,7 @@ A collection of writers, journalists, activists, and others fighting for a free 
 - [The Listening Post](https://www.aljazeera.com/program/the-listening-post/)
 - [Middle East Eye](https://www.middleeasteye.net/)
 - [Middle Nation](https://www.youtube.com/@MiddleNation)
-- [Mondoweiss](mondoweiss.net)
+- [Mondoweiss](https://mondoweiss.net)
 - [Quds News Network](https://x.com/QudsNen)
 - [MintPress News](https://x.com/MintPressNews)
 
@@ -66,6 +66,7 @@ A collection of writers, journalists, activists, and others fighting for a free 
 - [Daniel Levy](https://ecfr.eu/profile/daniel_levy/)
 - [Andrew Feinstein](https://x.com/andrewfeinstein)
 - [Refaat Alareer](https://en.wikipedia.org/wiki/Refaat_Alareer)
+- [Ta-Nehisi Coates](https://ta-nehisicoates.com/)
 
 # Artists / Activists / Politicians
 - [Abby Martin](https://x.com/AbbyMartin)
@@ -77,7 +78,7 @@ A collection of writers, journalists, activists, and others fighting for a free 
 - [Heidi Matthews](https://x.com/Heidi__Matthews)
 - [Lara Friedman](https://x.com/LaraFriedmanDC)
 - [Lowkey](https://www.youtube.com/@LowkeyOnline)
-- [Dr. Mads Gilbert](https://www.instagram.com/drmadsgilbert/?hl=en)
+- [Dr. Mads Gilbert](https://x.com/DrMadsGilbert)
 - [Medea Benjamin](https://x.com/medeabenjamin)
 - [Miko Peled](https://mikopeled.com/)
 - [Mosab Abu Toha](https://x.com/MosabAbuToha)
@@ -96,7 +97,7 @@ A collection of writers, journalists, activists, and others fighting for a free 
 - [BDS movement](https://www.bdsmovement.net/)
 - [B'Tselem בצלם بتسيلم](https://x.com/btselem)
 - [CODEPINK](https://x.com/codepink)
-- [Euro-Med Monitor](euromedmonitor.org) [(twitter)](https://x.com/EuroMedHR)
+- [Euro-Med Monitor](https://euromedmonitor.org) [(twitter)](https://x.com/EuroMedHR)
 - [National Students for Justice in Palestine](https://x.com/NationalSJP)
 - [Palestine Solidarity Campaign](https://palestinecampaign.org/)
 - [Palestine Festival of Literature | PalFest](https://linktr.ee/palfest)
