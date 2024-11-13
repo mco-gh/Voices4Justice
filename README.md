@@ -19,6 +19,7 @@ A collection of writers, journalists, activists, and others fighting for a free 
 - [Ghassan Kanafani](https://teachpalestine.org/articles/ghassan-kanafani/)
 - [Gideon Levy](https://www.haaretz.com/ty-WRITER/0000017f-da24-d249-ab7f-fbe4caac0000)
 - [Ilan Pappe](https://experts.exeter.ac.uk/search?by=text&type=user&v=%22pappe%22)
+- [Izzeldin Abuelaish](https://www.dlsph.utoronto.ca/faculty-profile/abuelaish-izzeldin/)
 - [Mouin Rabbani](https://www.dlsph.utoronto.ca/faculty-profile/abuelaish-izzeldin/)
 - [Jeremy Corbyn](https://jeremycorbyn.org.uk/)
 - [Katie Halper](https://www.youtube.com/c/TheKatieHalperShow)
