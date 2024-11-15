@@ -5,7 +5,17 @@ A collection of writers, journalists, activists, and others fighting for a free 
 - [Chris Hedges](https://www.youtube.com/channel/UCEATT6H3U5lu20eKPuHVN8A)
 - [Diana Buttu](https://www.instagram.com/dianabuttu/?hl=en)
 - [Katie Halper](https://www.youtube.com/c/TheKatieHalperShow)
+- [Aaron Mate](https://www.aaronmate.net/)
+- [Max Blumenthal](https://thegrayzone.com/author/max-blumenthal/)
 - [Warfare Analysis](https://t.me/warfareanalysis)
+- [Novara Media](https://www.youtube.com/@NovaraMedia/videos)
+- [Declassified UK](https://www.youtube.com/@DeclassifiedUK)
+- [BreakThrough News](https://www.youtube.com/@BreakThroughNews)
+- [The Grayzone](https://www.youtube.com/@thegrayzone7996)
+- [Useful Idiots](https://www.youtube.com/@usefulidiots)
+- [The Big Picture Podcast](https://www.youtube.com/playlist?list=PLMyaP73Ho1ySj3cO0OSOHZAOgD1WTDixG)
+- [India & Global Left](https://www.youtube.com/@IndiaGlobalLeft)
+- [Indie Nile](https://www.youtube.com/@dragtherapy/videos)
 
 ## Media
 - [Al Jazeera](https://www.aljazeera.com/)
@@ -14,6 +24,9 @@ A collection of writers, journalists, activists, and others fighting for a free 
 - [The Listening Post](https://www.aljazeera.com/program/the-listening-post/)
 - [Middle East Eye](https://www.middleeasteye.net/)
 - [Middle Nation](https://www.youtube.com/@MiddleNation)
+- [AJ+](https://www.youtube.com/@ajplus/videos)
+- [972Mag](https://www.972mag.com/)
+- [Mondoweiss](https://mondoweiss.net/)
 
 ## Authors / Historians
 - [Avi Shlaim](https://www.middleeasteye.net/users/avi-shlaim)
@@ -29,6 +42,13 @@ A collection of writers, journalists, activists, and others fighting for a free 
 - [Craig Mokhiber](https://sdgs.un.org/panelists/mr-craig-mokhiber-29717)
 - [Daniel Levy](https://ecfr.eu/profile/daniel_levy/)
 - [Andrew Feinstein](https://x.com/andrewfeinstein)
+- [Rashid Khalidi](https://en.wikipedia.org/wiki/Rashid_Khalidi)
+- [Ta-Nehisi Coates](https://ta-nehisicoates.com/)
+- [Naomi Klein](https://naomiklein.org/)
+- [Raz Segal](https://jewishcurrents.org/a-textbook-case-of-genocide)
+- [Arundhati Roy](https://www.britannica.com/biography/Arundhati-Roy)
+- [Richard Forer](https://www.linkedin.com/in/rich-forer-4b6312a/)
+- [Omer Bartov](https://x.com/bartov_omer)
 
 ## Artists / Activists / Politicians
 - [Francesca Albanese](https://www.ohchr.org/en/special-procedures/sr-palestine/francesca-albanese)
@@ -37,11 +57,23 @@ A collection of writers, journalists, activists, and others fighting for a free 
 - [Miko Peled](https://mikopeled.com/)
 - [Mouin Rabbani](https://mecouncil.org/experts_members/mouin-rabbani/)
 - [Jeremy Corbyn](https://jeremycorbyn.org.uk/)
+- [Roger Waters](https://rogerwaters.com/)
+- [Rashida Tlaib](https://tlaib.house.gov/)
+- [Yael Kahn](https://x.com/YaelKahn)
+
+## Human Rights/Non-government Organizations
+- [Human Rights Watch](https://www.hrw.org/)
+- [Amnesty International](https://www.amnesty.org.uk/)
+- [B'Tselem](https://www.btselem.org/)
+- [Euro-Md Human Rights Watch](https://euromedmonitor.org/en)
+- [UNRWA](https://www.youtube.com/@unrwa/videos)
+- [Doctors Without Borders](https://www.youtube.com/@doctorswithoutborders/search?query=gaza)
+- [CodePink](https://www.codepink.org/)
+- [Jewish Voice for Peace](https://www.jewishvoiceforpeace.org/)
 
 ## Other
 - [Bassem Youssef](https://www.bassemyoussef.xyz/)
 - [Mehdi Hasan / Zeteo](https://zeteo.com/)
-- [Owen Jones](https://www.youtube.com/@OwenJonesTalks)
 - [Shaun King](https://www.youtube.com/c/ShaunKing)
 - [Barnaby Raine](https://x.com/BarnabyRaine)
-
+- [Owen Jones](https://www.youtube.com/@OwenJonesTalks)
